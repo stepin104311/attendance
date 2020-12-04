@@ -1,4 +1,3 @@
-#include "unity.h"
 #include "attendance.h"
 /* Required by the unity test framework */
 void setUp(){}
