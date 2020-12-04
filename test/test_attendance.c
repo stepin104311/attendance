@@ -1,4 +1,5 @@
 #include "attendance.h"
+#include "unity.h"
 /* Required by the unity test framework */
 void setUp(){}
 /* Required by the unity test framework */
