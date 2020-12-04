@@ -1,7 +1,7 @@
 #include <CUnit/Basic.h>
 #include <CUnit/CUnit.h>
 
-#include <dict.h>
+#include <attendance.h>
 #define PROJECT_NAME "attendance"
 
 /* Prototypes for all the test functions */
