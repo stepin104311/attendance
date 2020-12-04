@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = /3_Implementation
+PROJECT_NAME = attendance
 # Output directory
 BUILD = build
 
