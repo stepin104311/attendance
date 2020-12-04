@@ -5,7 +5,7 @@
 #define PROJECT_NAME "attendance"
 
 /* Prototypes for all the test functions */
-void test_do_exita(void);
+void test_do_exit(void);
 
 
 /* Start of the application test */
