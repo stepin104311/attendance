@@ -1,5 +1,5 @@
-#include<attendance.h>
-#include"test_attendance.h"
+#include <attendance.h>
+#include "test_attendance.h"
 
 int main()
 {
