@@ -18,7 +18,7 @@ int main() {
 /* Note: Do not edit END */
 
 /* Add your test functions in this format for testing*/
-  CU_add_test(suite, "attendance", test_do_exita);
+  CU_add_test(suite, "attendance", test_do_exit);
 
 
 
@@ -35,8 +35,8 @@ int main() {
   return 0;
 }
 /* Write all the test functions */
-void test_do_exita(void){
-  CU_ASSERT_EQUAL(0,exita());
+void test_do_exit(void){
+  CU_ASSERT_EQUAL(0,exit());
 }
 
 
