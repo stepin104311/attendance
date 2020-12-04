@@ -68,6 +68,5 @@ int main()
              else
                     printf("\n%s Is Not Eligible To Write Exams",regno);
 		}
-		test_main();
   return 0;
 }
