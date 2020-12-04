@@ -1,4 +1,4 @@
-#include<attendance.h>
+#include <attendance.h>
 int normal(float aggregate,int usual)
 {
 		return usual;
